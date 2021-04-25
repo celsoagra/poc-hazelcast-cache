@@ -1,6 +1,6 @@
 # POC Hazelcast Cache Example
 
-## getting start
+## getting started
 
 type to initialize the application:
 
